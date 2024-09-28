@@ -63,7 +63,7 @@ insurance.csv
 | LightGBMRegressor         | 0.8760 |
 | RandomForestRegressor     | 0.8748 |
 | Stacking                  | 0.8655 |
-| Deep Neural Network       | 0.8582 |
+| Multi-Layer Perceptron    | 0.8582 |
 | TabNetRegressor           | 0.7426 |
 
 ## 최종 모델
